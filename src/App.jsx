@@ -1,4 +1,5 @@
-import MyForm from "./components/MyForm";
+import React, {useState} from "react"
+import PatientRegistration, from "./form";
 
 function App() {
   return (
